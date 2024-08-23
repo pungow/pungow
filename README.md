@@ -2,8 +2,8 @@
 
 
 
-- 🧑‍🎓 I’m currently student on Uniautonoma del Cauca
-- 💡 I’m currently learning JS and Python
+- 🧑‍🎓 I’m Sofware Developer
+- 💡 Always learning about different languages
 - ❤️ I love programming and technology...
 
 <div>
